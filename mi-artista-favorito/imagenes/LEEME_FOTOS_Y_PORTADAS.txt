@@ -1,1 +1,0 @@
-Las fotografías HD reales y las portadas de álbumes se muestran mediante referencias HTTPS externas, para no redistribuir imágenes protegidas. Ver sus URLs y licencias en CREDITOS_Y_DERECHOS.txt. Si el docente exige IMÁGENES FÍSICAS EN LA CARPETA, habrá que obtenerlas y guardarlas conforme a sus licencias.
